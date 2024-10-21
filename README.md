@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hola a todos 👋
 
-<!--
-**lfsevil/lfsevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Soy Ingeniero Informático y Técnico Superior en ASIR, actualmente estudiando IA y Big Data. Aunque mi perfil está más orientado a sistemas, también disfruto aprendiendo programación y buscando nuevos retos.
 
-Here are some ideas to get you started:
+EXPERIENCIA PROFESIONAL
+- Tutor y Docente de Formación Profesional en Informática
+- Técnico de Soporte en Sistemas Informáticos
+- Desarrollador de Contenidos Educativos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FORMACIÓN ACADÉMICA
+- Máster en Formación del Profesorado – Especialidad en Tecnología e Informática
+- Experto Universitario en Ciberseguridad y Blockchain
+- Grado Universitario en Informática
+- Técnico Superior en Administración de Sistemas Informáticos en Red
+- Certificado de Profesionalidad Docencia para el Empleo
